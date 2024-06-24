@@ -1,3 +1,3 @@
-# hello-world
+# Weather Alerts App
 **I am Emmanuel**
-I'm an aspiring computer scientist interested in data science and cloud computing
+This is a weather app that gives updates and weather reports for different states by entering the state codes (i.e. MD for Maryland, CA for California)
