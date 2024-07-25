@@ -1,9 +1,3 @@
-/*
- * Emmanuel Michael
- * Final Exam
- * INT-2200-RD01
- */
-
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
