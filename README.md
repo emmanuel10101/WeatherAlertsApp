@@ -9,8 +9,8 @@ Visual Alert Display: Color-coded alerts based on severity level with intuitive 
 At-a-Glance Information: Each alert shows event type, effective and expiration times, and severity
 Detailed Alert View: Click on any alert to view comprehensive information including:
 
-Full descriptions and instructions
-Precise timing information
+Full descriptions and instructions;
+Precise timing information;
 Emergency actions recommended by authorities
 
 
@@ -38,7 +38,7 @@ Alert Type Icons:
 * Click "Get Alerts" to retrieve current weather alerts
 * Click on any alert to view detailed information and instructions
 
-Getting Started
+## Getting Started
 #### Compile the application
 ```java
 javac WeatherAlertsApp.java
